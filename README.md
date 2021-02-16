@@ -7,10 +7,10 @@
 
 ## Stats :sparkles:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KudaT3rbang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KudaT3rbang&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KudaT3rbang&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KudaT3rbang&show_icons=true&theme=nord)  
 
 
 
