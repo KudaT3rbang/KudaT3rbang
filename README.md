@@ -5,7 +5,7 @@
 [<img align="left" src='https://github.com/KudaT3rbang/KudaT3rbang/blob/main/asset/twitter.svg' alt='twitter' height='30'>](https://twitter.com/kudat3rbang)
 <h3 align="left">Hi! I'm KudaT3rbang a.k.a  Nathanael Gilberth Tjandra, I'm from Indonesia. Currently studying at senior high school. Passionate about web developing stuff, still learning designing stuff. Feel free to add me on social media :sunglasses:</h3><br />
 
-## Stats :sparkles:
+# Stats :sparkles:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KudaT3rbang&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <br />
